@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=p\ y
+comment1.target=double\ geometricDistribution(double,\ double)
+comment2.params=p\ y
+comment2.target=double\ oobGeometricDistribution(double,\ double)
+comment3.params=p\ y
+comment3.target=double\ bGeometricDistribution(double,\ double)
+comment4.params=p\ y
+comment4.target=double\ ooaGeometricDistribution(double,\ double)
+comment5.params=p\ y
+comment5.target=double\ aGeometricDistribution(double,\ double)
+numComments=6

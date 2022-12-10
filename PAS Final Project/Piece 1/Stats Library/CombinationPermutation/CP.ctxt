@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CP
+comment1.params=n\ r
+comment1.target=int\ combinations(int,\ int)
+comment2.params=n\ r
+comment2.target=int\ permutations(int,\ int)
+comment3.params=n
+comment3.target=int\ factorial(int)
+numComments=4
